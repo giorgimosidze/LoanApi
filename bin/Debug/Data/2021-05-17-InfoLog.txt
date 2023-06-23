@@ -1,0 +1,4 @@
+2021-05-17 15:50:52.0301||INFO|info|New User was created. Username -  art|
+2021-05-17 15:55:20.6507||INFO|info|User logged in. Username -  art|
+2021-05-17 15:55:54.4233||INFO|info|User Added Loan. UserId 3|
+2021-05-17 15:57:33.0373||INFO|info|Loan #5 was updated. UserId 3.|

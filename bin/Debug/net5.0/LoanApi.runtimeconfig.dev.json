@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\salym\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\salym\\.nuget\\packages"
+    ]
+  }
+}

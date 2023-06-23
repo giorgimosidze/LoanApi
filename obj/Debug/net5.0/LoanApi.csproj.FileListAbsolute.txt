@@ -1,0 +1,130 @@
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\nlog.config
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\LoanApi.exe
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\LoanApi.deps.json
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\LoanApi.runtimeconfig.json
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\LoanApi.runtimeconfig.dev.json
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\LoanApi.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\ref\LoanApi.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\LoanApi.pdb
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\NLog.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.AssemblyInfo.cs
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\staticwebassets\LoanApi.StaticWebAssets.Manifest.cache
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\staticwebassets\LoanApi.StaticWebAssets.xml
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\scopedcss\bundle\LoanApi.styles.css
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.RazorTargetAssemblyInfo.cache
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.csproj.CopyComplete
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\ref\LoanApi.dll
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.pdb
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.genruntimeconfig.cache
+C:\Users\Artur\source\repos\LoanApi\LoanApi\obj\Debug\net5.0\LoanApi.csprojAssemblyReference.cache
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\nlog.config
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\appsettings.json
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\LoanApi.exe
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\LoanApi.deps.json
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\LoanApi.runtimeconfig.json
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\LoanApi.runtimeconfig.dev.json
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\LoanApi.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\ref\LoanApi.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\LoanApi.pdb
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\NLog.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.csproj.AssemblyReference.cache
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.AssemblyInfoInputs.cache
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.AssemblyInfo.cs
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.csproj.CoreCompileInputs.cache
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\staticwebassets\LoanApi.StaticWebAssets.Manifest.cache
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\staticwebassets\LoanApi.StaticWebAssets.xml
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\scopedcss\bundle\LoanApi.styles.css
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.RazorTargetAssemblyInfo.cache
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.csproj.CopyComplete
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\ref\LoanApi.dll
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.pdb
+C:\Users\salym\OneDrive\Рабочий стол\Mos\LoanApi-master\obj\Debug\net5.0\LoanApi.genruntimeconfig.cache
